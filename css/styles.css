@@ -1,0 +1,23 @@
+.important {
+    color: khaki;
+    font: size 25;
+    font-weight: 900;
+    
+  }
+  .unimportant {
+    color: darkcyan;
+    
+  }
+h1 {
+    color: black;
+    text-decoration: underline;
+    font-size: xx-large;
+    font-size: xx-large;
+    float: inline-start;
+     font-style: bold;
+     box-shadow:rgb(21, 12, 30);
+     text-size-adjust:center ;
+     text-overflow: ellipsis;
+     text-decoration: rgb(86, 255, 80);
+      text-underline-position: below;
+}
